@@ -265,7 +265,7 @@ export default function ArticleForm() {
                                         <div className="relative">
                                             <img
                                                 src={formData['image-url']}
-                                                alt="預覽圖片"
+                                                alt="preview-photo"
                                                 className="w-full transition-transform duration-300 group-hover:scale-105"
                                             />
                                             <div className="absolute inset-0 bg-black/50 p-6">
